@@ -28,7 +28,7 @@ suite of subbasins should be further considered as future storage sites.
 ### INTRODUCTION
 
 The area of interest of this study is a suite of subbasins located offshore Matagorda Bay, Texas within the Lower 
-Miocene 2 interval [Figure 1](#### Figure 1). This interval consists of a siliciclastic wedge approximately 600 m thick which was 
+Miocene 2 interval [Figure 1](####Figure-1). This interval consists of a siliciclastic wedge approximately 600 m thick which was 
 deposited in a strandplain depositional environment between the North Padre Delta to the south and the Calcasieu Delta 
 to the North (Galloway, 1989, Xu et al., 2016). The study area consists of five ‘subbasins’ (Figure 2). Each subbasin 
 is bounded landward by a listric growth fault extending through the Miocene interval separating Miocene deposits from 
