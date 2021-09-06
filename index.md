@@ -5,7 +5,7 @@
 ### Research Projects 
 
 [High Order Stratigraphic Framework of Intraslope Growth Faulted Subbasins Offshore Matagorda Bay, Texas](/masters_thesis.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Masters_thesis?Figure_3.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
