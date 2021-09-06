@@ -1,10 +1,11 @@
-title: John Doe # your name (or website title) here
+title: John Franey # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Graduate Researcher at the Jackson School of Geosciences at the University of Texas at Austin | Gulf Coast Carbon Center
   <br><br>
-  Second description 
+  Pursuing a Masters Degree in Geophysics with focus on Carbon Capture and Storage.
   <br><br>
+  <a href="mailto:johnfraney@utexas.edu">johnfraney@utexas.edu</a>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
