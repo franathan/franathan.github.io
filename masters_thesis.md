@@ -99,8 +99,8 @@ These high-resolution maps generated using dip-steered seismic data have the pot
 of the two seals. Though Interval 1 has a higher median thickness, the map shows a higher degree of undulation in 
 the shale thickness. The center of Interval 1 thins to 30% of the median thickness. Interval 2 is much more uniform 
 in its spatial distribution. This new information may change the relative risk associated with these two intervals, 
-and it may become more favorable to inject beneath Interval 2 shale. Though its median thickness is less than the 
-TST 1 interval, its uniform distribution lowers the risk of leakage.
+and it may become more favorable to inject beneath the Interval 2 shale. Though its median thickness is less than the 
+Interval 1 shale, its uniform distribution lowers the risk of leakage.
 
 #### Figure 5
 <img src="images/Masters_thesis/Figure_5.png?raw=true"/>
