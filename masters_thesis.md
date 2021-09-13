@@ -103,7 +103,7 @@ and it may become more favorable to inject beneath Interval 2 shale. Though its 
 TST 1 interval, its uniform distribution lowers the risk of leakage.
 
 #### Figure 5
-<img src="images/Masters_thesis/Figure_6.png?raw=true"/>
+<img src="images/Masters_thesis/Figure_5.png?raw=true"/>
 
 Thickness distribution of shale intervals 1 and 2 for the use case. Each distribution is made of 10 samples 
 (i.e. well data). From these distributions it appears that Interval 1 has less associated risk regarding sealing 
