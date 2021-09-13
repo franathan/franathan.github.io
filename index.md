@@ -18,13 +18,16 @@
 
 ---
 ---
-## Fieldwork
+## Fieldwork Photos
 
----
 ---
 
 [Peru](/Peru.md)
 <img src="images/peru/altiplano.jpeg?raw=true"/>
+
+---
+
+[Montana](/Montana.md)
 
 ---
 ---
